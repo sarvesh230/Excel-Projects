@@ -1,0 +1,30 @@
+In This Particular project i created a sales dashboard for a company, that provided a data set.
+
+### Created A Sales Dashboard
+    Based on the category and year.
+
+### Problem Statement
+
+The company wants to create an sales report for the year 2014-2017. So that,The company can understand their customers and grow more sales for their upcoming years.
+
+
+### Question that were Answered
+
+1) Which state did the the most sales in each category and year?
+2) Determine the Profit over time .
+3) List down thw top 5 Custmers.
+4) Show the Monthly sales in each category and year.
+5) Illustrate the sales by category.
+
+
+
+### Main Insights
+
+. Monthly sales of Furniture shows a gradual increase year on year.
+. Whereas Monthly sales of Office Supplies and Technologies fluctuate year on year.
+. Overall the sales of furniture and technology increases year on year.
+. Their is no repeated top Customer in each year.
+
+### Final Conclusion
+
+To increases the profit, company should focus on the Furniture and technology products. And Can introduce some kind of sales and discount vouchers for the customers to maximise their interest.  

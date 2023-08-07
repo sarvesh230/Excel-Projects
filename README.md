@@ -3,7 +3,7 @@ In this repository i created some excel projects and performed a detailed analys
 Along with it i created a customised and working dashboard so it can be easily understood. 
 Using Advanced Excel (Pivot Table, Power Query, DAX Formulas, and using customised charts and slicers).
 
-### This Repository contain 3 Projects
+### This Repository contain 2 Projects
 
 ### PROJECT 1
 
@@ -13,6 +13,9 @@ Analysed the data of a Store. Store name Vrinda's Store.
 ### PROBLEM STATEMENT 
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023. 
 
+## Dashboard Overview
+
+https://github.com/sarvesh230/Excel-Projects/assets/64326792/0d295a7d-b0a6-4cb3-a541-b8d88fb53d8c
 
 ### PROJECT 2
 
@@ -22,9 +25,11 @@ Analysed the sales data of a Company Data. Learned New Terminolgies like Fiscal 
 ### PROBLEM STATEMENT 
 In This Particular project i created a sales dashboard for a company, that provided a data set.
 
-### PROJECT 3
-
-### Folder Name : Road Accident Dashboard
+## Dashboard Overview
 
 
-### PROBLEM STATEMENT 
+https://github.com/sarvesh230/Excel-Projects/assets/64326792/5099fdc2-d683-4c89-8e7d-43b1c87a1948
+
+
+
+
